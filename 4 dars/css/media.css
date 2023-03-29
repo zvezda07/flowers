@@ -1,0 +1,11 @@
+@media  (max-width: 1199px) {
+    .cards {
+        justify-content: space-evenly;
+}
+}
+
+@media  (max-width: 1199px) {
+    .list {
+        flex-wrap: wrap;
+    }
+}
